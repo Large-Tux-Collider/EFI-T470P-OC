@@ -9,4 +9,4 @@ https://github.com/lohcve/EFI_T470P_OC
 #### 2023-12-03
 - Wifi/BT : Ok <br/>
 - HDMI/MiniDP : Ok, Sound work with Both
-- All usb port and card reader : Ok
+- All usb ports and card reader : Ok
